@@ -2,6 +2,10 @@
 
 This repository contains the document *ProcessFlow_AUL_Sysdiagnose.pdf*, a conceptual process flow focused on the acquisition and preservation of Apple Unified Logs (AUL) and Sysdiagnose data. The document serves as a reference and guide for digital forensic practitioners working with Apple devices and log data.
 
+## Download
+
+[Download the PDF](https://github.com/Ankan-42/Apple-Unified-Log/blob/main/ProcessFlow%20_AUL.pdf)
+
 ## Project Objectives
 
 - To document and share a structured workflow for collecting and preserving AUL and Sysdiagnose data.
@@ -13,7 +17,9 @@ This repository contains the document *ProcessFlow_AUL_Sysdiagnose.pdf*, a conce
 - `ProcessFlow _AUL`: the conceptual process flow (version 1.1, April 2025).
 - Additional documents, notes, or scripts may be added in the future.
 
-## ToDO
+
+
+## ToDo
 
 - Make a cheat sheet for use full commands 
 - Make a process flow for analysis of the AUL 
