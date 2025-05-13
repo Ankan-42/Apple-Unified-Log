@@ -18,11 +18,11 @@ This repository contains the document *ProcessFlow_AUL_Sysdiagnose.pdf*, a conce
 - Additional documents, notes, or scripts may be added in the future.
 
 
-
 ## ToDo
 
 - Make a cheat sheet for use full commands 
 - Make a process flow for analysis of the AUL 
+- Contribute my research
 
 ## Feedback or Contributions
 
